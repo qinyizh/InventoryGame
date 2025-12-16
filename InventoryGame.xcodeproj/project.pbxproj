@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		97ACD6F22EF0F299008D2D63 /* .gitignore in Sources */ = {isa = PBXBuildFile; fileRef = 97ACD6F12EF0F292008D2D63 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		97ACD6CC2EF05C37008D2D63 /* InventoryGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InventoryGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		97ACD6F12EF0F292008D2D63 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				97ACD6CE2EF05C37008D2D63 /* InventoryGame */,
 				97ACD6CD2EF05C37008D2D63 /* Products */,
+				97ACD6F12EF0F292008D2D63 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97ACD6F22EF0F299008D2D63 /* .gitignore in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
